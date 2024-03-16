@@ -20,5 +20,5 @@ show the oreder % by gender </p>
 what are the sales that made by each channel </p>
 
 
-Linkdin post -- https://www.linkedin.com/feed/update/urn:li:activity:7096184969315688448/
+Linkdin post -- https://www.linkedin.com/feed/update/urn:li:activity:7096184969315688448/</p>
 linkdin profile -- 
