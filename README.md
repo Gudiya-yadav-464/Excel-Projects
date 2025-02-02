@@ -21,4 +21,4 @@ what are the sales that made by each channel </p>
 
 
 Linkdin post -- https://www.linkedin.com/feed/update/urn:li:activity:7096184969315688448/</p>
-linkdin profile -- 
+linkdin profile -- https://www.linkedin.com/in/gudiya-y-dataanalyst/
